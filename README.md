@@ -7,6 +7,8 @@ https://gitlab.torproject.org/tpo/applications/tor-browser/-/issues/40693
 ### Usage
  1. Clone the repo into your tor installation, right by the "start-tor-browser.desktop" file.
  2. Invoke make:
+
  	$ make
  3. Start tor using the fixed launcher using the patch
+
  	./start-tor-browser.fix.desktop
