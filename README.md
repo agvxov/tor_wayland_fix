@@ -1,4 +1,8 @@
 # Tor wayland fix
+
+> ![IMPORTANT]
+> The bug seems to be fixed as of 2025 oct.
+
 Plug'n'play solution for this issue:
 https://gitlab.torproject.org/tpo/applications/tor-browser/-/issues/40693
 
